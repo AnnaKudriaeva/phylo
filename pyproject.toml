@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "phylo"
+version = "0.1.0"
+description = ""
+authors = ["Anna Kudriaeva <anna.kudriaeva@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+biopython = "^1.84"
+dash = "^2.18.2"
+dash-cytoscape = "^1.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
