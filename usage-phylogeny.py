@@ -17,8 +17,8 @@ except ModuleNotFoundError as e:
     sys.exit(1)
 
 
-def generate_elements(tree, xlen=30, ylen=30, grabbable=False):
-    def get_col_positions(tree, column_width=80):
+def generate_elements(tree, xlen=2, ylen=30, grabbable=False):
+    def get_col_positions(tree, column_width=5550):
         """Create a mapping of each clade to its column position."""
         taxa = tree.get_terminals()
 
@@ -127,7 +127,7 @@ def generate_elements(tree, xlen=30, ylen=30, grabbable=False):
 
 
 # Define elements, stylesheet and layout
-tree = Phylo.read("my.xml", "phyloxml")
+tree = Phylo.read("new.xml", "phyloxml")
 nodes, edges = generate_elements(tree)
 elements = nodes + edges
 
