@@ -122,7 +122,7 @@ def generate_elements(tree, xlen=2, ylen=30, grabbable=False):
 
 
 # Define elements, stylesheet, and layout
-tree = Phylo.read("my_phylo_2.xml", "phyloxml")
+tree = Phylo.read("new_phylo.xml", "phyloxml")
 nodes, edges = generate_elements(tree)
 elements = nodes + edges
 
