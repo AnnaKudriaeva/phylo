@@ -129,10 +129,9 @@ elements = nodes + edges
 layout = {"name": "preset"}
 
 # List of names to highlight
-highlight_names = ["B/PHUKET/3073/2013", "_A/flat-faced bat/Peru/033/2010 H18N11", "A/little_yellow-shouldered_bat/Guatemala/164/2009", "_A/Jiangxi-Donghu/346/2013", "_A/yunnan/0127/2015 H5N6", "_A/Australian shelduck/Western Australia/1756/1983 H15N2", "_A/chicken/VietNam/NCVD-016/2008 H5N1", "A/Brevig_Mission/1/1918", "A/mallard/Astrakhan/263/1982 H14N15", 
-                   "_A/Hangzhou/1/2013", "_A/duck/Hunan/8-19/2009", "_A/pintail_duck/Alberta/114/1979", "_A/mallard duck/Alberta/342/1983 H12N1", "_A/Missouri/09/2014 H3N2", "_A/chicken/Guangdong/C273/2011 H6N2", "_A/black-headed gull/Sweden/5/99 H16N3", "_A/black-headed gull/Sweden/1/1999",
-                   "_A/swine/Hebei/0116/2017","_A/Texas/36/1991", "_A/New_York/18/2009", "_A/thick-billed_murre/Newfoundland/031/2007", "_A/Hong_Kong/3239/2008"
-    # Add your list of names here
+highlight_names = ["B/PHUKET/3073/2013", "A/flat-faced bat/Peru/033/2010 H18N11", "A/little_yellow-shouldered_bat/Guatemala/164/2009", "A/Jiangxi-Donghu/346/2013", "A/yunnan/0127/2015 H5N6", "A/Australian shelduck/Western Australia/1756/1983 H15N2", "A/chicken/VietNam/NCVD-016/2008 H5N1", "A/Brevig_Mission/1/1918", "A/mallard/Astrakhan/263/1982 H14N15", 
+                   "A/Hangzhou/1/2013", "A/duck/Hunan/8-19/2009", "A/pintail_duck/Alberta/114/1979", "A/mallard duck/Alberta/342/1983 H12N1", "A/Missouri/09/2014", "A/chicken/Guangdong/C273/2011 H6N2", "A/black-headed gull/Sweden/5/99 H16N3", "A/black-headed gull/Sweden/1/1999",
+                   "A/swine/Hebei/0116/2017","A/Texas/36/1991", "A/New_York/18/2009", "A/thick-billed_murre/Newfoundland/031/2007", "A/Hong_Kong/3239/2008"
 ]
 
 stylesheet = [
