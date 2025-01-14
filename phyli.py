@@ -129,8 +129,9 @@ elements = nodes + edges
 layout = {"name": "preset"}
 
 # List of names to highlight
-highlight_names = ["B/Yamagata/16/1988", "B/Massachusetts/03/2010", "B/Victoria/02/1987", "A/turkey/Ireland/1378/1983", "A/barns wallow/Hong Kong/D10-1161/2010", "_A/Indonesia/5/2005 H5N1", "_A/Anhui/1/2005 H5N1", "_A/yunnan/0127/2015 H5N6", "_A/bar-headed goose/Qinghai/14/2008 H5N1", "_A/chicken/VietNam/NCVD-016/2008 H5N1", "_A/mallard/Ohio/217/1998 H6N8", "_A/chicken/Guangdong/C273/2011 H6N2", 
-                   "_A/chicken/Hong Kong/17/1977 H6N4","_A/duck/Yangzhou/906/2002 H11N2", "_A/black-headed gull/Sweden/5/99 H16N3", "_A/shorebird/DE/261/2003 H9N5", "_A/duck/NZL/76/1984 H9N1", "_A/Hong Kong/3239/2008 H9N2", "_A/mallard duck/Alberta/342/1983 H12N1", "_A/flat-faced bat/Peru/033/2010 H18N11", "_A/Australian shelduck/Western Australia/1756/1983 H15N2", "_A/equine/Kentucky/1a/1975 H7N7", "_A/Netherlands/219/2003 H7N7", "_A/blue-winged teal/Louisiana/Sg-00073/2007 H10N7", "_A/Jiangxi-Donghu/346/2013 H10N8", "_A/equine/Gansu/7/2008 H3N8", "_A/Missouri/09/2014 H3N2", "A/mallard/Astrakhan/263/1982 H14N15"
+highlight_names = ["B/PHUKET/3073/2013", "_A/flat-faced bat/Peru/033/2010 H18N11", "A/little_yellow-shouldered_bat/Guatemala/164/2009", "_A/Jiangxi-Donghu/346/2013", "_A/yunnan/0127/2015 H5N6", "_A/Australian shelduck/Western Australia/1756/1983 H15N2", "_A/chicken/VietNam/NCVD-016/2008 H5N1", "A/Brevig_Mission/1/1918", "A/mallard/Astrakhan/263/1982 H14N15", 
+                   "_A/Hangzhou/1/2013", "_A/duck/Hunan/8-19/2009", "_A/pintail_duck/Alberta/114/1979", "_A/mallard duck/Alberta/342/1983 H12N1", "_A/Missouri/09/2014 H3N2", "_A/chicken/Guangdong/C273/2011 H6N2", "_A/black-headed gull/Sweden/5/99 H16N3", "_A/black-headed gull/Sweden/1/1999",
+                   "_A/swine/Hebei/0116/2017","_A/Texas/36/1991", "_A/New_York/18/2009", "_A/thick-billed_murre/Newfoundland/031/2007", "_A/Hong_Kong/3239/2008"
     # Add your list of names here
 ]
 
